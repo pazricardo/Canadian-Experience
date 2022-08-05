@@ -1,0 +1,21 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2021.2.1/bin/ninja/win/ninja.exe" -G Ninja C:\Users\pazri\SS22\CSE335\step7\CanadianExperience
+-- The C compiler identification is MSVC 19.29.30143.0
+-- The CXX compiler identification is MSVC 19.29.30143.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found wxWidgets: debug;C:/wxWidgets/lib/vc_x64_lib/wxmsw31ud_core.lib;optimized;C:/wxWidgets/lib/vc_x64_lib/wxmsw31u_core.lib;debug;C:/wxWidgets/lib/vc_x64_lib/wxbase31ud.lib;optimized;C:/wxWidgets/lib/vc_x64_lib/wxbase31u.lib;debug;C:/wxWidgets/lib/vc_x64_lib/wxmsw31ud_xrc.lib;optimized;C:/wxWidgets/lib/vc_x64_lib/wxmsw31u_xrc.lib;debug;C:/wxWidgets/lib/vc_x64_lib/wxmsw31ud_html.lib;optimized;C:/wxWidgets/lib/vc_x64_lib/wxmsw31u_html.lib;debug;C:/wxWidgets/lib/vc_x64_lib/wxbase31ud_xml.lib;optimized;C:/wxWidgets/lib/vc_x64_lib/wxbase31u_xml.lib;debug;C:/wxWidgets/lib/vc_x64_lib/wxpngd.lib;optimized;C:/wxWidgets/lib/vc_x64_lib/wxpng.lib;debug;C:/wxWidgets/lib/vc_x64_lib/wxtiffd.lib;optimized;C:/wxWidgets/lib/vc_x64_lib/wxtiff.lib;debug;C:/wxWidgets/lib/vc_x64_lib/wxjpegd.lib;optimized;C:/wxWidgets/lib/vc_x64_lib/wxjpeg.lib;debug;C:/wxWidgets/lib/vc_x64_lib/wxzlibd.lib;optimized;C:/wxWidgets/lib/vc_x64_lib/wxzlib.lib;debug;C:/wxWidgets/lib/vc_x64_lib/wxregexud.lib;optimized;C:/wxWidgets/lib/vc_x64_lib/wxregexu.lib;debug;C:/wxWidgets/lib/vc_x64_lib/wxexpatd.lib;optimized;C:/wxWidgets/lib/vc_x64_lib/wxexpat.lib;winmm;comctl32;uuid;oleacc;uxtheme;rpcrt4;shlwapi;version;wsock32 (found version "3.1.5") found components: core base xrc html xml png tiff jpeg zlib regex expat 
+-- Could NOT find Python (missing: Python_EXECUTABLE Interpreter) 
+-- Looking for pthread.h
+-- Looking for pthread.h - not found
+-- Found Threads: TRUE  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/pazri/SS22/CSE335/step7/CanadianExperience/cmake-build-debug

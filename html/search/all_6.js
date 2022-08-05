@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['getangle_0',['GetAngle',['../class_anim_channel_angle.html#af957c1f556686bdd079b2344c059ae35',1,'AnimChannelAngle::GetAngle()'],['../class_anim_channel_angle_1_1_keyframe_angle.html#afb1983a5079519c96f919dd61bfcdfb0',1,'AnimChannelAngle::KeyframeAngle::GetAngle()']]],
+  ['getanglechannel_1',['GetAngleChannel',['../class_drawable.html#a799f9004066065ce0d4c6ee7d7ee0661',1,'Drawable']]],
+  ['getcenter_2',['GetCenter',['../class_image_drawable.html#a74714a7bd21300327d71ac3e7398e45a',1,'ImageDrawable']]],
+  ['getcolor_3',['GetColor',['../class_poly_drawable.html#aa789621e18641bc357f564da6e94dbac',1,'PolyDrawable']]],
+  ['getcurrentframe_4',['GetCurrentFrame',['../class_timeline.html#a70d76b474ace86306760dbb39cc9c3ab',1,'Timeline']]],
+  ['getcurrenttime_5',['GetCurrentTime',['../class_timeline.html#ab0c054d790c4fcdd1b18bccf183183cd',1,'Timeline']]],
+  ['getduration_6',['GetDuration',['../class_timeline.html#ab2aecfead282dde7873115940c4a5ca1',1,'Timeline']]],
+  ['getframe_7',['GetFrame',['../class_anim_channel_1_1_keyframe.html#afe4f36c719949fb02cdab460f794392f',1,'AnimChannel::Keyframe']]],
+  ['getframerate_8',['GetFrameRate',['../class_timeline.html#a42a3525b0e67caa407e3c304009ee491',1,'Timeline']]],
+  ['getkeyframe_9',['GetKeyframe',['../class_actor.html#ad3f8fadc2a423db30fec59d8480d65bc',1,'Actor::GetKeyframe()'],['../class_drawable.html#aca5a1aad766e29037479b3b3d502618f',1,'Drawable::GetKeyframe()'],['../class_head_top.html#a48844586c42af496087020c7af05f322',1,'HeadTop::GetKeyframe()']]],
+  ['getname_10',['GetName',['../class_actor.html#ad250f73ec316d1097c070168ece2299a',1,'Actor::GetName()'],['../class_anim_channel.html#a75621c86bb02011aa5809743cdd100d8',1,'AnimChannel::GetName()'],['../class_drawable.html#aa382df2886879bd03e53e127dc418b8a',1,'Drawable::GetName()']]],
+  ['getnumframes_11',['GetNumFrames',['../class_timeline.html#a17ec5e999331cecc5127fad41e5f5592',1,'Timeline']]],
+  ['getparent_12',['GetParent',['../class_drawable.html#ae99955cf2478c6b76d677001378e61a6',1,'Drawable']]],
+  ['getpicture_13',['GetPicture',['../class_actor.html#a374e8fd9ad08ae3b72409e7e5f849825',1,'Actor::GetPicture()'],['../class_picture_observer.html#af8cd8dce25c5a99cabd7a13babc333c4',1,'PictureObserver::GetPicture()']]],
+  ['getpoint_14',['GetPoint',['../class_anim_channel_position.html#a0118c28804588e261f1f8985f4974917',1,'AnimChannelPosition::GetPoint()'],['../class_anim_channel_position_1_1_keyframe_point.html#ab2962bdc0232c1bad0bda88556b9ce15',1,'AnimChannelPosition::KeyframePoint::GetPoint()']]],
+  ['getposition_15',['GetPosition',['../class_actor.html#a2c000d99a9e0d79f0f453128e959084a',1,'Actor::GetPosition()'],['../class_drawable.html#a58f5e614295cc42b4bc6dabdf322ce01',1,'Drawable::GetPosition()']]],
+  ['getpositionchannel_16',['GetPositionChannel',['../class_actor.html#a7c1a7acb2a99cc459ed5880734c17f0d',1,'Actor']]],
+  ['getrotation_17',['GetRotation',['../class_drawable.html#a163d7cc82d3741a1995544e262e70aea',1,'Drawable']]],
+  ['getsize_18',['GetSize',['../class_picture.html#aea939d3ab5722f56a7a154f323cc9422',1,'Picture']]],
+  ['gettimeline_19',['GetTimeline',['../class_anim_channel.html#a36c72d037469749c85477192dcf870e8',1,'AnimChannel::GetTimeline()'],['../class_picture.html#ad8187d90d965c47c7af7d9f44d7b6c37',1,'Picture::GetTimeline()']]]
+];
